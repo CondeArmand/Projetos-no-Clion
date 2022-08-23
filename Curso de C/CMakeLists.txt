@@ -3,4 +3,4 @@ project(Curso_de_C C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Curso_de_C main.c)
+add_executable(Curso_de_C main.c cmake-build-debug/IndentaçãoEComentarios.cpp IndentacaoEComentarios.c)

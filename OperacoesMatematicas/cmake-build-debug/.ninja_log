@@ -1,0 +1,17 @@
+# ninja log v5
+0	103	6825294326906538	CMakeFiles/OperacoesMatematicas.dir/main.c.obj	89b61ea534671332
+104	224	6825294328074155	OperacoesMatematicas.exe	4c2704b8a21fa61d
+1	101	6825294791649271	CMakeFiles/OperacoesMatematicas.dir/main.c.obj	89b61ea534671332
+102	249	6825294793103568	OperacoesMatematicas.exe	4c2704b8a21fa61d
+3	90	6825295180855504	CMakeFiles/OperacoesMatematicas.dir/main.c.obj	89b61ea534671332
+90	214	6825295182077734	OperacoesMatematicas.exe	4c2704b8a21fa61d
+2	97	6825295839245532	CMakeFiles/OperacoesMatematicas.dir/main.c.obj	89b61ea534671332
+98	234	6825295840579897	OperacoesMatematicas.exe	4c2704b8a21fa61d
+2	131	6825295998369479	CMakeFiles/OperacoesMatematicas.dir/main.c.obj	89b61ea534671332
+131	260	6825295999643032	OperacoesMatematicas.exe	4c2704b8a21fa61d
+2	114	6825296488944674	CMakeFiles/OperacoesMatematicas.dir/main.c.obj	89b61ea534671332
+115	261	6825296490360213	OperacoesMatematicas.exe	4c2704b8a21fa61d
+2	97	6825296619880813	CMakeFiles/OperacoesMatematicas.dir/main.c.obj	89b61ea534671332
+98	227	6825296621160261	OperacoesMatematicas.exe	4c2704b8a21fa61d
+2	105	6825296760585000	CMakeFiles/OperacoesMatematicas.dir/main.c.obj	89b61ea534671332
+106	232	6825296761832467	OperacoesMatematicas.exe	4c2704b8a21fa61d

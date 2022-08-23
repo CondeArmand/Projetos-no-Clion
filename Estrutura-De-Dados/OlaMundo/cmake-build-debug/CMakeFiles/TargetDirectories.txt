@@ -1,0 +1,3 @@
+C:/Users/Armando/Documents/GitHub/Projetos-no-Clion/Estrutura-De-Dados/OlaMundo/cmake-build-debug/CMakeFiles/OlaMundo.dir
+C:/Users/Armando/Documents/GitHub/Projetos-no-Clion/Estrutura-De-Dados/OlaMundo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Armando/Documents/GitHub/Projetos-no-Clion/Estrutura-De-Dados/OlaMundo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

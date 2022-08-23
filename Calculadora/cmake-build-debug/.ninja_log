@@ -1,0 +1,11 @@
+# ninja log v5
+0	89	6825306187545189	CMakeFiles/Calculadora.dir/main.c.obj	770d84c2bc45e3dd
+89	214	6825306188758099	Calculadora.exe	b0790528a1bf6109
+2	90	6825306380073861	CMakeFiles/Calculadora.dir/main.c.obj	770d84c2bc45e3dd
+90	210	6825306381255059	Calculadora.exe	b0790528a1bf6109
+2	120	6825307252410756	CMakeFiles/Calculadora.dir/main.c.obj	770d84c2bc45e3dd
+120	249	6825307253666575	Calculadora.exe	b0790528a1bf6109
+2	94	6825307750004021	CMakeFiles/Calculadora.dir/main.c.obj	770d84c2bc45e3dd
+94	238	6825307751418932	Calculadora.exe	b0790528a1bf6109
+1	107	6825308063181273	CMakeFiles/Calculadora.dir/main.c.obj	770d84c2bc45e3dd
+116	261	6825308064691750	Calculadora.exe	b0790528a1bf6109

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e239e25f-5538-4364-b620-7c90f0e76fa3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Projetos-no-Clion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basicos Do C/.idea/Basicos Do C.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basicos Do C/ValoresFormatados.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curso de C/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curso de C/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curso de C/.idea/Curso de C.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curso de C/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curso de C/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curso de C/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curso de C/IndentacaoEComentarios.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Indentação e Comentarios/.idea/Indentação e Comentarios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Valores Formatados/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Valores Formatados/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Valores Formatados/.idea/Valores Formatados.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Valores Formatados/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Valores Formatados/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Valores Formatados/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Valores Formatados/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Valores Formatados/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variaveis/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variaveis/.idea/Variaveis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variaveis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variaveis/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variaveis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variaveis/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variaveis/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso de C/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d360ea977c3dd280408d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-d3fe10903de1ad002794.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/.cmake/api/v1/reply/index-2022-08-17T14-07-13-0770.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/.cmake/api/v1/reply/target-Curso_de_C-Debug-0356dd2dd6345c2471b0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/CMakeFiles/3.23.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso de C/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso de C/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso de C/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="2DWs23RvucJcowVdKNMwqbJRQb2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Project.color": "204d08",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e239e25f-5538-4364-b620-7c90f0e76fa3" name="Changes" comment="" />
+      <created>1660825964930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660825964930</updated>
+      <workItem from="1660825966481" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

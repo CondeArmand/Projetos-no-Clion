@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\Armando\Documents\GitHub\Projetos-no-Clion\untitled Select CMakeLists.txt

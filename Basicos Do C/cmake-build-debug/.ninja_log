@@ -1,0 +1,7 @@
+# ninja log v5
+0	135	6824675450198817	CMakeFiles/Basicos_Do_C.dir/Variaveis.c.obj	5473e5663eac7a20
+11	168	6824675450536767	CMakeFiles/Basicos_Do_C.dir/IndentacaoEComentarios.c.obj	163be39dae6a64d3
+21	194	6824675450828431	CMakeFiles/Basicos_Do_C.dir/main.c.obj	32237a07162087c4
+45	229	6824675451138589	CMakeFiles/Basicos_Do_C.dir/ValoresFormatados.c.obj	95966994f56f1fc4
+0	155	6824683878999293	build.ninja	73275e91f605e8dc
+2	138	6824683880691489	Basicos_Do_C.exe	1a0b2fcb61b93553
