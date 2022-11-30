@@ -1,0 +1,3 @@
+C:/Users/Armando/Downloads/TADListaEst-bbfdb33db96740e5bfe8db2b4f2bc472/TADListaEst/cmake-build-debug/CMakeFiles/TADListaEst.dir
+C:/Users/Armando/Downloads/TADListaEst-bbfdb33db96740e5bfe8db2b4f2bc472/TADListaEst/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Armando/Downloads/TADListaEst-bbfdb33db96740e5bfe8db2b4f2bc472/TADListaEst/cmake-build-debug/CMakeFiles/rebuild_cache.dir
