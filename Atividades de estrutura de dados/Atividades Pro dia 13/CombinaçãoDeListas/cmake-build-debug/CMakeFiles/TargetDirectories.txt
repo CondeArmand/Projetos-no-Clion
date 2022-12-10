@@ -1,0 +1,3 @@
+C:/Users/Armando/CLionProjects/Atividades de estrutura de dados/CombinaçãoDeListas/cmake-build-debug/CMakeFiles/CombinacaoDeListas.dir
+C:/Users/Armando/CLionProjects/Atividades de estrutura de dados/CombinaçãoDeListas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Armando/CLionProjects/Atividades de estrutura de dados/CombinaçãoDeListas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
